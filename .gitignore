@@ -129,5 +129,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Hardhat build artifacts and cache
+artifacts/
+cache/
+ignition/deployments/
 
 .env
